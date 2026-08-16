@@ -1,4 +1,4 @@
-# Gullwing-Swan — COBOL Modernisation
+# Gullwing-Swan — COBOL Modernisation to Python
 
 The Swan glides above modern systems while paddling beneath the legacy COBOL code. YouTube Video Evidence: https://youtu.be/91wFxuTLjvM
 
