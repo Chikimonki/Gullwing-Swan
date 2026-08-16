@@ -1,8 +1,6 @@
 # Gullwing-Swan — COBOL Modernisation
 
-YouTube Video Evidence: https://youtu.be/91wFxuTLjvM
-
-The swan glides above modern systems while paddling beneath the legacy COBOL code.
+The Swan glides above modern systems while paddling beneath the legacy COBOL code. YouTube Video Evidence: https://youtu.be/91wFxuTLjvM
 
 ## What It Does
 
